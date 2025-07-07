@@ -8,8 +8,9 @@ const About = () => {
       <div className="flex flex-col-reverse lg:flex-row items-center gap-10 px-6 py-20 max-w-7xl mx-auto">
         {/* Text Content */}
         <div className="w-full lg:w-1/2">
+        
           <h2 className="text-3xl sm:text-4xl font-bold mb-6 text-[#1A2F64] leading-tight">
-            Discover Healing with Compassion & Innovation
+            About Us
           </h2>
           <p className="text-base sm:text-lg leading-relaxed text-gray-700 mb-4">
             Our hospital is a place where cutting-edge technology meets heartfelt care. 
